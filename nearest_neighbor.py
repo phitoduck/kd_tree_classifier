@@ -11,7 +11,7 @@ Description:
 
     (A) Nearest Neighbor Problem:
 
-    In this class .py file, we solve the Nearest Neighbor problem:
+    In this .py file, we solve the Nearest Neighbor problem:
     given a set of points in Euclidean space, if we pick a single point
     from the set, which other point is closest to the point we chose?
 
